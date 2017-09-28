@@ -3,7 +3,7 @@
 fac()
 {
   int c, n, fact = 1;
- n=5;
+ n=4444;
  
   for (c = 1; c <= n; c++)
     fact = fact * c;
